@@ -13,10 +13,11 @@ Retrive Log file and save Log file as txt or json
 
 CLI Tool Go-Lang requires [Go-Lang](https://go.dev/) v1.19+ to run.
 
-Install the dependencies and devDependencies and start the server.
+Install the dependencies and more.
 
 ```sh
 cd cli-tool-golang
+go get
 go build
 go install
 ```
